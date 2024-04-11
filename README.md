@@ -15,7 +15,7 @@ Git
 
 ### Installation instruction
 ```
-Git clone 
+Git clone git@github.com:Adan-Alinoor/week-3-code-challenge.git
 
 ```
 
