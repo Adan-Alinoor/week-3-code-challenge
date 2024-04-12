@@ -20,7 +20,7 @@ Git clone git@github.com:Adan-Alinoor/week-3-code-challenge.git
 ```
 
 # Live Link
-[Git](gh-pages link)
+[Git](gh-pages link https://adan-alinoor.github.io/week-3-code-challenge/)
 
 ## Technologies used
 Javascript
